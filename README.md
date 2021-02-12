@@ -20,7 +20,7 @@
 
 * Now open the file `RAT.py` and insert your token from the bot and your identifier that you copy earlier.
 
-  <img src="https://i.imgur.com/eBQwW7l.png">
+  <img src="https://i.imgur.com/Nyfa3bA.png">
 
 * Press `CTRL + S` to save the changes.                                                
 * To compile a script, use `Compile.bat`
